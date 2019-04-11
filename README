@@ -1,0 +1,12 @@
+# Exhibition Screensaver
+
+The Exhibition Screensaver refers to the default screensaver that all laptops within the VR Makerspace use.
+
+There are three files in this GitHub repo that pertain to this screensaver.
+
+The .mov file ("exhibitionscreensaver.mov") is a compressed version of the original screensaver.
+The .swf file ("exhibitionscreensaver.swf") is a Shockwave Flash version of the compressed .mov file. This was converted using a free online tool, Convertio (https://convertio.co/mov-swf/).
+The .exe file ("exhibitionscreensaver.exe") is an executable programme file that installs the screensaver into a Windows computer.
+To install the screensaver into a Windows computer, drag the "exhibitionscreensaver.exe" file into an Administrator account of the selected Windows computer. Open the file and run it.
+
+More instructions can be found in the Handover document titled "Exhibition Screensaver HOTO.docx".
